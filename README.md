@@ -39,16 +39,52 @@
 ## 📌 Pinned Projects
 
 <p align="center">
+
   <a href="https://github.com/bamites1-sketch/gebeya-b">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=gebeya-b&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=gebeya-b&theme=tokyonight&hide_border=true"
     />
   </a>
 
+  &nbsp;&nbsp;
+
   <a href="https://github.com/bamites1-sketch/hotel-dashboard">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=hotel-dashboard&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=hotel-dashboard&theme=tokyonight&hide_border=true"
     />
+  </a>
+
+</p>
+
+---
+
+## 🔗 Quick Live Access
+
+<p align="center">
+
+  <a href="https://gebeya-b.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Gebeya%20Live-Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://et-hotel.netlify.app">
+    <img src="https://img.shields.io/badge/🏨%20Hotel%20Live-Demo-0f172a?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+
+
+<p align="center">
+  <a href="https://gebeya-b.vercel.app">
+    <img src="https://raw.githubusercontent.com/bamites1-sketch/bamites1-sketch/main/gebeya.png" width="45%" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://et-hotel.netlify.app">
+    <img src="https://raw.githubusercontent.com/bamites1-sketch/bamites1-sketch/main/hotel.png" width="45%" />
   </a>
 </p>
 ---
