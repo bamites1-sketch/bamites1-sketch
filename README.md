@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Beamlak (Ambi)</h1>
+<h1 align="center">Hi 👋, I'm Beamlak Tesfahun</h1>
 <h3 align="center">Fullstack Developer | React + Node.js + MySQL</h3>
 
 ---
