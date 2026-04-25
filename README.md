@@ -1,118 +1,151 @@
-<!-- ================= HEADER ================= -->
-<h2 align="center">Hey 👋 I'm Beamlak Tesfahun</h2>
+
+
+````markdown
+<!-- ================= HERO SECTION ================= -->
 
 <p align="center">
-  🎓 3rd Year Software Engineering Student @ Wollo University <br/>
-  💻 Fullstack Developer • React • Node.js • Django <br/>
-  🤖 Exploring AI-powered web applications
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=140&section=header"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&lines=Building+real-world+projects;Learning+AI+%2B+Web+Integration;Growing+every+day+as+a+developer" />
-</p>
+<h1 align="center">
+  🚀 Hey, I'm Beamlak Tesfahun
+</h1>
+
+<h3 align="center">
+  Fullstack Developer • React • Node.js • Builder of Ethiopian Tech 🇪🇹
+</h3>
 
 ---
 
-<!-- ================= ABOUT ================= -->
-### 👨‍💻 About Me
-
-- 🎓 3rd Year Software Engineering student at **Wollo University**  
-- 🚀 Building real-world fullstack applications  
-- 🤖 Currently exploring **AI-powered web systems**  
-- 🐍 Learning and building with **Django**  
-- 🇪🇹 Passionate about Ethiopian tech innovation  
-- 🤝 Open to collaboration and impactful projects  
-
----
-
-<!-- ================= PROJECTS ================= -->
-### 🚀 Featured Projects
-
-#### 🛍️ Gebeya — Cultural Marketplace  
-🔗 https://gebeya-b.vercel.app  
-
-A platform connecting Ethiopian artisans with the global market.
-
-**Key Features**
-- 🌍 Multi-language (አማርኛ, English, Oromiffa, ትግርኛ)  
-- 🛒 Product listing & marketplace system  
-- 🎨 Cultural-focused UI/UX  
-
-**Tech Stack**  
-`React` `Node.js` `MySQL` `Tailwind`
-
----
-
-#### 🏨 ET Hotel — Management System  
-🔗 https://et-hotel.netlify.app  
-
-A modern hotel management dashboard for real-world operations.
-
-**Key Features**
-- 📅 Booking & guest management  
-- 📊 Revenue analytics  
-- 🌓 Dark / Light mode  
-- 🇪🇹 Ethiopian calendar integration  
-
-**Tech Stack**  
-`React` `TypeScript` `Redux` `Tailwind`
-
----
-
-<!-- ================= STATS ================= -->
-### 📊 GitHub Analytics
+<!-- ================= VISITOR + STATS ================= -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bamites1-sketch&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamites1-sketch&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=bamites1-sketch&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?username=bamites1-sketch&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bamites1-sketch&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ================= SKILLS ================= -->
-### 🧠 Tech Stack
+<!-- ================= LIVE ACTIVITY GRAPH ================= -->
 
-**Frontend**  
-`React` `TypeScript` `Tailwind CSS`
+## 📊 Live GitHub Activity
 
-**Backend**  
-`Node.js` `Express` `Django`
-
-**Database**  
-`MySQL`
-
-**Exploring**  
-`AI Integration` `REST APIs` `System Design`
-
----
-
-<!-- ================= LEARNING ================= -->
-### 🌱 Currently Learning
-
-- 🤖 AI for Web Applications  
-- 🐍 Advanced Django Development  
-- ⚡ Next.js  
-- 🏗️ System Design Fundamentals  
-- ☁️ Cloud Deployment  
-
----
-
-<!-- ================= CONTACT ================= -->
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:bamites1@gmail.com">Email</a> •
-  <a href="https://github.com/bamites1-sketch">GitHub</a> •
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
-</p>
-
----
-
-<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=320&lines=Building+with+purpose;Learning+AI+%2B+Web;Proudly+from+Ethiopia+🇪🇹" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bamites1-sketch&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+## 🧠 About Me
+
+```text
+⚡ Fullstack Developer (React + Node.js)
+🌍 Building real-world Ethiopian digital systems 🇪🇹
+💡 Passionate about UI/UX + scalable backend systems
+🚀 Always learning, always building
+````
+
+---
+
+## 🧠 Auto Project Cards (GitHub Style)
+
+> These behave like “live portfolio cards” 🔥
+
+<p align="center">
+
+<a href="https://gebeya-b.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=gebeya&theme=tokyonight" />
+</a>
+
+<a href="https://et-hotel.netlify.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=et-hotel&theme=tokyonight" />
+</a>
+
+</p>
+
+⚡ These cards auto-update from GitHub API (no manual editing needed)
+
+---
+
+## 🛍️ Featured Projects (Landing Page Style)
+
+### 🟦 Gebeya Marketplace
+
+<p align="center">
+  <a href="https://gebeya-b.vercel.app">
+    <img src="https://github.com/bamites1-sketch/bamites1-sketch/blob/main/gebeya.png?raw=true" width="90%" />
+  </a>
+</p>
+
+---
+
+### 🏨 ET-Hotel System
+
+<p align="center">
+  <a href="https://et-hotel.netlify.app">
+    <img src="https://github.com/bamites1-sketch/bamites1-sketch/blob/main/hotel.png?raw=true" width="90%" />
+  </a>
+</p>
+
+---
+
+## 🟢 Live GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bamites1-sketch&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge\&logo=react)
+![Node](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge\&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge\&logo=typescript)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge\&logo=mysql)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge\&logo=tailwind-css)
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:bamites1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/bamites1-sketch">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Final Message
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=800&color=3b82f6&center=true&vCenter=true&width=500&lines=Building+real+impact+with+code;Ethiopian+developer+🇪🇹;Always+learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=90&section=footer"/>
+</p>
+```
+
+---
+
+
+---
+
+# 🚀 Final word
+
+
+
+> 💼 “serious developer / internship-ready / recruiter-friendly” tier
+
