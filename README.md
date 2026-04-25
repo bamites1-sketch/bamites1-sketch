@@ -43,3 +43,35 @@
 🌍 Building Ethiopian tech solutions 🇪🇹
 💡 UI/UX + backend systems lover
 🚀 Always learning, always building
+📌 Pinned Projects
+<p align="center"> <a href="https://github.com/bamites1-sketch/gebeya-b"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=gebeya-b&theme=tokyonight" /> </a> <a href="https://github.com/bamites1-sketch/hotel-dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=hotel-dashboard&theme=tokyonight" /> </a> </p>
+🛍️ Featured Project 1: Gebeya Marketplace
+<p align="center"> <a href="https://gebeya-b.vercel.app" target="_blank"> <img src="https://github.com/bamites1-sketch/bamites1-sketch/blob/main/gebeya.png?raw=true" width="80%" style="border-radius: 12px;" /> </a> </p>
+🔗 Live Demo: gebeya-b.vercel.app
+
+Feature	Description
+🌍 Multi-language	Amharic, English, Oromiffa, Tigrinya
+🛒 Marketplace	Product listings, cart, wishlist
+👩‍🎨 Artisan Focus	50+ artisans, 6 regions
+✅ Authentic	100% Ethiopian products
+Tech Stack: React Node.js Express MySQL TailwindCSS
+
+🏨 Featured Project 2: ET-Hotel System
+<p align="center"> <a href="https://et-hotel.netlify.app" target="_blank"> <img src="https://github.com/bamites1-sketch/bamites1-sketch/blob/main/hotel.png?raw=true" width="80%" style="border-radius: 12px;" /> </a> </p>
+🔗 Live Demo: et-hotel.netlify.app
+
+Feature	Description
+📅 Booking System	Room reservations & guest management
+💱 Multi-currency	ETB + USD support
+🌓 Theme	Dark / Light mode toggle
+🇪🇹 Localization	Ethiopian calendar
+📊 Analytics	Revenue charts & occupancy rates
+Tech Stack: React TypeScript Redux Toolkit TailwindCSS
+
+🟢 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bamites1-sketch&theme=tokyonight&hide_border=true" /> </p>
+🛠️ Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> </p>
+📫 Connect With Me
+<p align="center"> <a href="mailto:bamites1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-bamites1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/bamites1-sketch"> <img src="https://img.shields.io/badge/GitHub-bamites1--sketch-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/yourusername" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+real+impact+with+code;Proudly+Ethiopian+developer+🇪🇹;Always+learning+🚀" /> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=90&section=footer"/> </p> `
