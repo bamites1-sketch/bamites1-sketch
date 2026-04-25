@@ -41,30 +41,16 @@
 <p align="center">
   <a href="https://github.com/bamites1-sketch/gebeya-b">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=gebeya-b&theme=tokyonight" 
-      height="140"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=gebeya-b&theme=tokyonight&hide_border=true" 
     />
   </a>
 
   <a href="https://github.com/bamites1-sketch/hotel-dashboard">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=hotel-dashboard&theme=tokyonight" 
-      height="140"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=bamites1-sketch&repo=hotel-dashboard&theme=tokyonight&hide_border=true" 
     />
   </a>
 </p>
-
-<style>
-  a img {
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
-    border-radius: 12px;
-  }
-
-  a img:hover {
-    transform: translateY(-6px) scale(1.02);
-    box-shadow: 0 10px 25px rgba(0,0,0,0.4);
-  }
-</style>
 ---
 
 <!-- ================= FEATURED PROJECT 1 ================= -->
